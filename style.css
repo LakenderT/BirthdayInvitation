@@ -1,0 +1,63 @@
+body {
+	background-color: #f0f0f0;
+}
+
+.invitation-card {
+	background-color: #f0e3e3;
+	border: 2px solid #ccc;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	margin: 50px auto;
+	max-width: 600px;
+	padding: 30px;
+	text-align: center;
+}
+
+h1 {
+	color: #f5ba17;
+	font-family: 'Pacifico', cursive;
+	font-size: 40px;
+	margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    flex-grow: inherit;
+    color: #f5ba17;
+	font-size: 20px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+p {
+	font-size: 16px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+img {
+	border-radius: 10px;
+	margin-bottom: 30px;
+}
+
+.rsvp-button {
+	background-color: #f5ba17;
+	border: none;
+	border-radius: 20px;
+	color: #fff;
+	display: inline-block;
+	font-size: 20px;
+	margin-top: 30px;
+	padding: 10px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: background-color 0.3s ease;
+}
+
+.rsvp-button:hover {
+	background-color: #5ca3ff;
+	cursor: pointer;
+}
+.bg{
+    background-color: rgb(202, 230, 236);
+}
