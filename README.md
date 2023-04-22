@@ -1,7 +1,7 @@
-#Birthday Party Invitation
+# Birthday Party Invitation
 This GitHub repository contains the HTML and CSS code for a simple and stylish birthday party invitation. The invitation card is designed using HTML and styled with CSS to create an eye-catching layout.
 
-##The main features of the invitation card include:
+## The main features of the invitation card include:
 
 A large heading "Join us for a Birthday Party!" in a bold font, making it the focal point of the card.
 An image of a birthday party, which adds visual appeal to the invitation and sets the mood for the event.
